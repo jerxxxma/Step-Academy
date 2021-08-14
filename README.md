@@ -4,7 +4,9 @@
 
 команда:  
 
-git clone https://github.com/jerxxxma/Step-Academy.git 
+
+`cd dir` (вместо dir вставьте путь к папке, в которую хотите склонировать репозиторий)
+`git clone https://github.com/jerxxxma/Step-Academy.git `
 
 В противном случае можно просто копировать код и вставлять в своем редакторе.
 
